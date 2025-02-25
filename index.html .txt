@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Genevieve Davidson's Saxophone Website</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Saxophone Website</h1>
+    </header>
+    <main>
+        <section>
+            <h2>About Me</h2>
+            <p>Hello! I'm Genevieve Davidson, a saxophone enthusiast. I love playing the saxophone and sharing my passion with others.</p>
+        </section>
+        <section>
+            <h2>Projects</h2>
+            <p>Here are some of my saxophone projects:</p>
+            <ul>
+                <li>Project 1: Jazz Improvisation Techniques</li>
+                <li>Project 2: Classical Saxophone Repertoire</li>
+                <li>Project 3: Saxophone Ensemble Arrangements</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Contact</h2>
+            <p>You can reach me at <a href="mailto:genevieve@example.com">genevieve@example.com</a>.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 Genevieve Davidson. All rights reserved.</p>
+    </footer>
+    <script src="scripts.js"></script>
+</body>
+</html>
